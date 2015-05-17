@@ -1,0 +1,1274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"count",
+				"countFiles"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"coo",
+				"cooclear"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"date_add",
+				"date_added"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"catego",
+				"category-1"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"ca",
+				"category-1"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"mo",
+				"moz-border-radius"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"servi",
+				"service-phones"
+			],
+			[
+				"phone",
+				"phoneDone"
+			],
+			[
+				"aeE",
+				"arElement"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"Get",
+				"GetByID"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"drop",
+				"dropdown-menu"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lab",
+				"label_new_mini"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 3259,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ajax.php",
+			"settings":
+			{
+				"buffer_size": 2811,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts.js",
+			"settings":
+			{
+				"buffer_size": 1914,
+				"line_ending": "Windows",
+				"name": "$(document).ready(function() {"
+			}
+		},
+		{
+			"file": "td.todo",
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"selected_items":
+		[
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss:php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"tAbs",
+				"View: Toggle Tabs"
+			],
+			[
+				"pack conins",
+				"Package Control: Install Package"
+			],
+			[
+				"packconin",
+				"Package Control: Install Package"
+			],
+			[
+				"packco",
+				"Package Control: Install Package"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"setti",
+				"Preferences: Settings - Default"
+			],
+			[
+				"SETT",
+				"Preferences: Settings - User"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"vita",
+				"View: Toggle Tabs"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"SIDE",
+				"View: Toggle Side Bar"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"side ",
+				"View: Toggle Side Bar"
+			],
+			[
+				"word w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack co in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack con in",
+				"Package Control: Install Package"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"SSCSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 244.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Programm/OpenServer5/OpenServer/domains/work/aspro/dz1/_ajax.php",
+		"/C/Users/Rix/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/messages/Tutorial.todo",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/aspro/dz1/catalog/move.txt",
+		"/C/Users/Rix/AppData/Local/Temp/scp50391/home/bitrix/mavt.ru/local/templates/mavt/components/bitrix/menu/mavt_top_catalog/template.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp59500/home/bitrix/mavt.ru/local/templates/mavt/components/aspro/catalog.store.list/mavt_basket_top/template.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp01851/home/bitrix/mavt.ru/local/templates/mavt/components/aspro/eshop.sale.basket.basket/mavt/template.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp31463/home/bitrix/mavt.ru/local/templates/mavt/components/aspro/eshop.sale.basket.basket/mavt/template.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp13833/www/bitrix.elskervin.dk/bitrix/templates/aspro_kshop_dk/components/bitrix/catalog/main/section.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp50813/www/autoprof.ru/local/templates/reaspekt_inner/components/aspro/calculator/autoprof/script.js",
+		"/C/Users/Rix/AppData/Local/Temp/scp53698/www/autoprof.ru/local/templates/reaspekt_inner/components/aspro/calculator/autoprof/template.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp25318/www/autoprof.ru/local/templates/reaspekt_inner/components/aspro/calculator/autoprof/style.css",
+		"/D/Aum/Aspro/autoprof/autoprof/script.js",
+		"/C/Users/Rix/AppData/Local/Temp/scp24246/www/autoprof.ru/bitrix/components/aspro/calculator/templates/.default/style.css",
+		"/C/Users/Rix/AppData/Local/Temp/scp15834/www/autoprof.ru/bitrix/components/aspro/calculator/templates/.default/script.js",
+		"/C/Users/Rix/AppData/Local/Temp/scp00040/www/autoprof.ru/ajax/calculator.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp10900/avto-prof.ru/docs/calculator/index.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp38992/public_html/ajax/show_basket_line.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp40607/public_html/local/templates/apoint/components/bitrix/sale.basket.basket.small/top/script.js",
+		"/C/Users/Rix/AppData/Local/Temp/scp32394/public_html/local/templates/apoint/components/bitrix/sale.basket.basket/aspro/script.js",
+		"/C/Users/Rix/AppData/Local/Temp/scp51466/public_html/local/templates/apoint/components/bitrix/sale.basket.basket/aspro/template.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp51786/public_html/local/templates/apoint/components/bitrix/sale.basket.basket/aspro/basket_items.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp39023/public_html/local/templates/apoint/components/bitrix/sale.basket.basket.small/top/template.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp57895/dia/bitrix/templates/kg_aspro_kshop/components/bitrix/catalog.smart.filter/main/template.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp48051/dia/bitrix/templates/kg_aspro_kshop/components/bitrix/catalog/main/section.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp16880/dia/bitrix/components/aspro/oneclickbuy/component.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp27651/dia/site_ci/ajax/one_click_buy_basket.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp26836/dia/site_ci/ajax/one_click_buy.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp27219/dia/ajax/one_click_buy_basket.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp15848/dia/ajax/one_click_buy.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp14026/dia/ajax/item.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp57479/dia/bitrix/templates/kg_aspro_kshop/components/bitrix/catalog.smart.filter/main/result_modifier.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp45540/dia/bitrix/templates/kg_aspro_kshop/components/bitrix/catalog/main/compare.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp21502/dia/bitrix/modules/aspro.kshop/include.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp44316/dia/catalog/index.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp41053/dia/ajax/get_compare_count.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp21207/dia/bitrix/modules/aspro.kshop/functions.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp21870/dia/bitrix/modules/aspro.kshop/options.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp18047/dia/bitrix/templates/kg_aspro_kshop/components/aspro/oneclickbuy/shop/template.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp18200/dia/bitrix/templates/kg_aspro_kshop/components/aspro/oneclickbuy/shop/component_epilog.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp17816/dia/bitrix/components/aspro/oneclickbuy/script.php",
+		"/D/Aum/Aspro/don-shina/script.js",
+		"/D/Aum/Aspro/don-shina/template.php",
+		"/C/Users/Rix/AppData/Local/Temp/scp41239/dia/ajax/item.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/basket_items 2.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/component.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/template 2.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/basket_items.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/template.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/script.js",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/include.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/script 2.js",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/template 3.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/aspro/dz1/sort.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/aspro/dz1/index.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/dbconn.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/.access 2.php",
+		"/D/Aum/Aspro/symlinks.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/symlinks.php",
+		"/D/Aum/Aspro/b/site_ci/.access.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/urlrewrite.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/.access.php",
+		"/D/Aum/Aspro/symlinks.php.txt",
+		"/D/Aum/Aspro/xml/products.xml",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/.settings.php",
+		"/D/Aum/Aspro/dbconn.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/aspro/dz1/catalog/file1.txt",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/aspro/dz1/catalog/file2.tt",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/cjclub/views/common/js/services/backendUtils.js",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/cjclub/laravel/app/controllers/CommentsCtrl.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/cjclub/public/common/js/scripts.js",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/cjclub/controllers/CjclubUser.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/cjclub/views/main/js/apps/userApp.js",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/cjclub/public/main/js/main.js",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/cjclub/views/main/partials/project.html",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/cjclub/views/common/js/controllers/TrackCtrl.js",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/cjclub/views/main/css/main.css",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/cjclub/laravel/app/database/migrations/2014_11_15_101500_add_fields_to_albums_table.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/work/cjclub/public/main/js/userApp.js",
+		"/D/Programm/OpenServer5/OpenServer/domains/freelance/cjclub/views/main/partials/sub/comments.example.html",
+		"/D/Programm/OpenServer5/OpenServer/domains/freelance/cjclub/views/main/partials/article.html",
+		"/D/Programm/OpenServer5/OpenServer/domains/freelance/cjclub/gulpfile.js",
+		"/D/Programm/OpenServer5/OpenServer/domains/projects/shabarah/app/Http/routes.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/welcome.blade.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/WelcomeController.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/app.blade.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/projects/shabarah/resources/views/welcome.blade.php",
+		"/D/Programm/OpenServer5/OpenServer/modules/php/PHP-5.5/php.ini",
+		"/D/Programm/OpenServer5/OpenServer/domains/projects/vitrine/app/views/frontend/partials/modal.blade.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/projects/vitrine/app/views/frontend/pages/delivery.blade.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/projects/vitrine/app/views/frontend/partials/nav.blade.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/projects/vitrine/app/views/frontend/partials/footer.blade.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/projects/vitrine/app/views/frontend/pages/home.blade.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/.top.menu_ext.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/.bottom2.menu.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/.bottom1.menu.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/.bottom.menu.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/sect_bbottom.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/styles.css",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/page.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/sect_rtop.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/detail.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/result_modifier.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/sidenav.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/init.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/scripts.js",
+		"/D/Programm/OpenServer/OpenServer/domains/bitrix/woomclean/bitrix/templates/woomwoom/components/bitrix/catalog.element/latest/result_modifier.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/index 3.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/detail 2.php",
+		"/C/Users/Rix/AppData/Local/Temp/fz3temp-1/index 4.php",
+		"/D/Programm/OpenServer/OpenServer/domains/bitrix/dostfound/catalog/index.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/bitrix/specteh/urlrewrite.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/bitrix/specteh/catalog/diesel/index.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/bitrix/specteh/catalog/gas/index.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/bitrix/specteh/catalog/electric/index.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/bitrix/specteh/catalog/reachtruck/index.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/bitrix/specteh/news/index.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/bitrix/specteh/contacts/index.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/bitrix/specteh/index.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/bitrix/specteh/aktsii/index.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/bitrix/specteh/bitrix/templates/rixytheme/header.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/bitrix/specteh/bitrix/templates/rixytheme/footer.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/bitrix/specteh/bitrix/templates/rixytheme/description.php",
+		"/D/Programm/OpenServer5/OpenServer/domains/laravel/casino/app/routes.php"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\Programm\\OpenServer5\\OpenServer\\domains\\work\\cjclub",
+			"D:\\Programm\\OpenServer5\\OpenServer\\domains\\clones\\fideloper.com",
+			"D:\\Programm\\OpenServer5\\OpenServer\\domains",
+			"D:\\RiLab\\me_Pisanka\\tmp",
+			"D:\\WebServers\\home\\pr\\sdelaem74",
+			"D:\\WebServers\\home\\pr\\evamoon\\public\\less",
+			"D:\\WebServers\\home\\os\\triline\\catalog\\language",
+			"D:\\WebServers\\home\\os\\triline\\catalog",
+			"D:\\WebServers\\home\\os\\triline",
+			"D:\\WebServers\\home\\os\\triline\\catalog\\view\\theme\\triline",
+			"D:\\WebServers\\home\\os\\triline\\catalog\\language\\russian",
+			"D:\\WebServers\\home\\os\\triline",
+			"D:\\WebServers\\home\\os\\triline\\catalog\\view\\theme\\triline\\stylesheet\\bootstrap\\less",
+			"D:\\WebServers\\home\\vizh\\goldphone\\bitrix\\templates",
+			"D:\\WebServers\\home\\pr\\sdelaem74",
+			"D:\\WebServers\\home\\pr\\s74\\sites\\all\\themes\\letsdoit",
+			"D:\\WebServers\\home\\pr\\s74",
+			"D:\\WebServers\\home\\pr\\s74\\sites\\all\\modules\\panels",
+			"D:\\WebServers\\home\\pr\\s74",
+			"D:\\WebServers\\home\\vizh\\goldphone",
+			"D:\\WebServers\\home\\vizh\\goldphone\\bitrix\\templates",
+			"D:\\WebServers\\home\\vizh\\goldphone\\bitrix\\templates\\servis_map\\components\\yenisite\\catalog\\.default\\bitrix",
+			"D:\\WebServers\\home\\vizh\\goldphone",
+			"D:\\WebServers\\home\\vizh\\goldphone\\bitrix\\templates\\servis_map\\components\\yenisite\\catalog\\.default\\bitrix",
+			"D:\\WebServers\\home\\vizh\\goldphone\\bitrix\\templates\\service\\components\\yenisite\\catalog\\.default\\bitrix",
+			"D:\\WebServers\\home\\vizh\\goldphone",
+			"D:\\WebServers\\home\\pr\\s74",
+			"D:\\WebServers\\home\\vizh\\goldphone",
+			"D:\\WebServers\\home\\vizh\\goldphone\\bitrix\\templates",
+			"D:\\WebServers\\home\\vizh\\goldphone",
+			"D:\\WebServers\\home\\pr\\s74",
+			"D:\\WebServers\\home\\pr\\s74\\sites\\all\\modules\\admin_menu",
+			"D:\\WebServers\\home\\vizh\\therunet",
+			"D:\\WebServers\\home\\vizh\\azanfund"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Connect",
+			"dbBase",
+			"Pass",
+			"dbLogin",
+			"email",
+			"span",
+			"dbConnect",
+			"dbTest",
+			"$skolko_failov",
+			"p",
+			"f",
+			"props",
+			"arSection",
+			"props_array",
+			"section_props",
+			".hasClass('valid')",
+			"age",
+			"-",
+			"valid",
+			"erro",
+			"F1",
+			"dpDate",
+			"alidator",
+			"мини",
+			"smartfilter",
+			"QUANTITY",
+			"BUY_ALL_BASKET",
+			"$arParams['PRICE_ID'",
+			"add",
+			"addbu",
+			"add2",
+			"add",
+			"onecl",
+			"add",
+			"add2",
+			"curren",
+			"arItem",
+			"arMenu",
+			"rRegions",
+			"arCity[",
+			"search",
+			"regionality",
+			"cooki",
+			"location.href",
+			"$arGeoRegion",
+			"REDIRECT_DOMAIN",
+			"arGeoRegion",
+			"GEO_ADDRESS",
+			"$arData",
+			"get_current_region",
+			"OnRegionUpdate",
+			"arRegions",
+			"cache",
+			"$arData",
+			"arGeoRegion",
+			"coo",
+			"regionality",
+			"arRegions",
+			"CURRENT",
+			"get_regions",
+			"redi",
+			"geo",
+			"arGeoRegion",
+			"arSite",
+			"getCi",
+			"coo",
+			"redi",
+			"cook",
+			"arGeoRegion",
+			"arRegion",
+			"arGeoRegion",
+			"region",
+			"arData",
+			"GEO_ADDRESS",
+			"CURRENT",
+			"$arGeoRegion",
+			"arGeoRegion",
+			"arRegions",
+			"popup_city_geo",
+			"$_COOKIE",
+			"$arRegionCookie",
+			"arRegions",
+			"arRegionCookie",
+			"arGeoRegion",
+			"arRegion",
+			"arRegions",
+			"limi",
+			"upload",
+			"site",
+			"14",
+			"17",
+			"\\",
+			"print",
+			"CommentModel",
+			"commentsCollection",
+			"Comments",
+			"BackendUtils",
+			"SignedUser",
+			"getComments",
+			"getCommentById",
+			"changeFavorite",
+			"getComment",
+			"getComments",
+			"query",
+			"comm",
+			"CommentsCollection",
+			"getComments",
+			"CommentModel",
+			"getMessage",
+			"COMMENTS_PER_PAGE",
+			"comments",
+			"getComments",
+			"page",
+			"commentsCollection",
+			"simplePaginate",
+			"loadedTillCommentId",
+			"Comment",
+			"Comments",
+			"getComments",
+			"Comments",
+			"getComments",
+			"loadedTillCommentId",
+			"page",
+			"COMMENTS_PER_PAGE",
+			"page",
+			"pagesCount",
+			"loadedTillCommentId",
+			"commentsCollection"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" 7px",
+			"7px",
+			"",
+			"http://triline.rix.jino.ru/",
+			"nav",
+			"Nav",
+			"nav",
+			"Nav",
+			"nav",
+			"\\i",
+			"(.)av",
+			"nav",
+			"t-t",
+			"catalog",
+			"</li><br>",
+			"",
+			"triline",
+			"</li><br>",
+			"li>",
+			"li",
+			"/",
+			" /><br>",
+			"stx"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 3259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1846,
+								1914
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1518.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ajax.php",
+					"settings":
+					{
+						"buffer_size": 2811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1857,
+								1857
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"colorcode": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1914.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "scripts.js",
+					"settings":
+					{
+						"buffer_size": 1914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1031,
+								1031
+							]
+						],
+						"settings":
+						{
+							"auto_name": "$(document).ready(function() {",
+							"colorcode": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 858.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "td.todo",
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 53.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.466325036603,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 129.0
+	},
+	"replace":
+	{
+		"height": 100.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ки",
+				"rus/К/Ким Юлий/Рыба-кит.txt"
+			],
+			[
+				"bm_",
+				"rus/К/Кино/bm_В наших глазах.txt"
+			],
+			[
+				"кино",
+				"rus/П/Пикник/Немое кино.txt"
+			],
+			[
+				"tristyle",
+				"catalog/view/theme/triline/stylesheet/stylesheet.css"
+			],
+			[
+				"contakcii",
+				"catalog/controller/information/akcii.php"
+			],
+			[
+				"tristyl",
+				"catalog/view/theme/triline/stylesheet/stylesheet.css"
+			],
+			[
+				"tricart",
+				"catalog/view/theme/triline/template/module/cart.tpl"
+			],
+			[
+				"trilakc",
+				"catalog/view/theme/triline/template/information/akcii.tpl"
+			],
+			[
+				"trilstyle",
+				"catalog/view/theme/triline/stylesheet/stylesheet.css"
+			],
+			[
+				"triline/module",
+				"catalog/view/theme/triline/template/module/featured.tpl"
+			],
+			[
+				"akcii",
+				"catalog/controller/information/akcii.php"
+			],
+			[
+				"cattrihe",
+				"catalog/view/theme/triline/template/common/header.tpl"
+			],
+			[
+				"catcontinfo",
+				"catalog/controller/module/information.php"
+			],
+			[
+				"cattristyle",
+				"catalog/view/theme/triline/stylesheet/stylesheet.css"
+			],
+			[
+				"catalog/view/inf",
+				"catalog/view/theme/triline/template/module/information.tpl"
+			],
+			[
+				"catmodulin",
+				"catalog/controller/module/information.php"
+			],
+			[
+				"catmodinf",
+				"catalog/model/catalog/information.php"
+			],
+			[
+				"catcatin",
+				"catalog/model/catalog/information.php"
+			],
+			[
+				"catmodein",
+				"catalog/model/catalog/information.php"
+			],
+			[
+				"catconmodin",
+				"catalog/controller/module/information.php"
+			],
+			[
+				"catvietriinfor",
+				"catalog/view/theme/triline/template/module/information.tpl"
+			],
+			[
+				"adminvinews",
+				"admin/view/template/module/news.tpl"
+			],
+			[
+				"trilistyl",
+				"catalog/view/theme/triline/stylesheet/stylesheet.css"
+			],
+			[
+				"cataviewcategory",
+				"catalog/view/theme/triline/template/module/category.tpl"
+			],
+			[
+				"catmoducart",
+				"catalog/controller/module/cart.php"
+			],
+			[
+				"catviewtrinew",
+				"catalog/view/theme/triline/template/information/news.tpl"
+			],
+			[
+				"catviewtricart",
+				"catalog/view/theme/triline/template/module/cart.tpl"
+			],
+			[
+				"catstyles",
+				"catalog/view/theme/triline/stylesheet/stylesheet.css"
+			],
+			[
+				"style",
+				"system/PHPExcel/Classes/PHPExcel/Style.php"
+			],
+			[
+				"startup",
+				"system/startup.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"csvprice",
+				"admin/view/template/module/csvprice.tpl"
+			],
+			[
+				"adminviewtoolback",
+				"admin/view/template/tool/backup.tpl"
+			],
+			[
+				"csvpr",
+				"admin/view/template/module/csvprice.tpl"
+			],
+			[
+				"admincontr",
+				"admin/controller/catalog/product.php"
+			],
+			[
+				"side",
+				"system/PHPExcel/Classes/PHPExcel/Shared/JAMA/SingularValueDecomposition.php"
+			],
+			[
+				"compare",
+				"catalog/controller/product/compare.php"
+			],
+			[
+				".js",
+				"catalog/view/javascript/common.js"
+			],
+			[
+				"productfo",
+				"admin/view/template/catalog/product_form.tpl"
+			],
+			[
+				"adminviewproduct",
+				"admin/view/template/catalog/product_form.tpl"
+			],
+			[
+				"admincontrcatpro",
+				"admin/controller/catalog/product.php"
+			],
+			[
+				"admincatpro",
+				"admin/model/catalog/product.php"
+			],
+			[
+				"admmodpro",
+				"admin/model/catalog/product.php"
+			],
+			[
+				"admotoex",
+				"admin/model/tool/export.php"
+			],
+			[
+				"adtooex",
+				"admin/controller/tool/export.php"
+			],
+			[
+				"dataappmod",
+				"computer-database/app/models/Models.scala"
+			],
+			[
+				"dataapsca",
+				"computer-database/app/controllers/Application.scala"
+			],
+			[
+				"datarou",
+				"computer-database/conf/routes"
+			],
+			[
+				"scala.h",
+				"computer-database/app/views/list.scala.html"
+			],
+			[
+				"build.s",
+				"comet-live-monitoring/project/Build.scala"
+			],
+			[
+				"less",
+				"comet-live-monitoring/app/assets/stylesheets/main.less"
+			],
+			[
+				"main.sca.ht",
+				"app/views/main.scala.html"
+			],
+			[
+				"route",
+				"conf/routes"
+			],
+			[
+				"conf",
+				"conf/application.conf"
+			],
+			[
+				"modescal",
+				"app/models/Task.scala"
+			],
+			[
+				"appliscal",
+				"app/controllers/Application.scala"
+			],
+			[
+				"ind",
+				"app/views/index.scala.html"
+			],
+			[
+				"index.sca",
+				"app/views/index.scala.html"
+			],
+			[
+				"adminmodelexpt",
+				"admin/model/tool/export.php"
+			],
+			[
+				"adminmodeltoolexport",
+				"admin/model/tool/export.php"
+			],
+			[
+				"produ_lis",
+				"admin/view/template/catalog/product_list.tpl"
+			],
+			[
+				"modelcatapro",
+				"admin/model/catalog/product.php"
+			],
+			[
+				"admincontrcatalpro",
+				"admin/controller/catalog/product.php"
+			],
+			[
+				"admin",
+				"admin/index.php"
+			],
+			[
+				"adminviewtoolex",
+				"admin/view/template/tool/export.tpl"
+			],
+			[
+				"admincontrtoolexp",
+				"admin/controller/tool/export.php"
+			],
+			[
+				"adminmodeltoolex",
+				"admin/model/tool/export.php"
+			],
+			[
+				"adminviewtemptoolexp",
+				"admin/view/template/tool/export.tpl"
+			],
+			[
+				"controllertool",
+				"admin/controller/tool/export.php"
+			],
+			[
+				"model",
+				"system/engine/model.php"
+			],
+			[
+				"triheader",
+				"catalog/view/theme/triline/template/common/header.tpl"
+			],
+			[
+				"viewtriheader",
+				"catalog/view/theme/triline/template/common/header.tpl"
+			],
+			[
+				"tricategory",
+				"catalog/view/theme/triline/template/product/category.tpl"
+			],
+			[
+				"common",
+				"catalog/view/javascript/common.js"
+			],
+			[
+				"viewnews",
+				"catalog/view/theme/triline/template/module/news.tpl"
+			],
+			[
+				"viewnew",
+				"catalog/view/theme/triline/template/module/news.tpl"
+			],
+			[
+				"viewcatalog",
+				"catalog/view/theme/triline/template/information/catalog.tpl"
+			],
+			[
+				"viewtrifoo",
+				"catalog/view/theme/triline/template/common/footer.tpl"
+			],
+			[
+				"cattriheader",
+				"catalog/view/theme/triline/template/common/header.tpl"
+			],
+			[
+				"tristyles",
+				"catalog/view/theme/triline/stylesheet/stylesheet.css"
+			],
+			[
+				"inforcatalog",
+				"catalog/view/theme/triline/template/information/catalog.tpl"
+			],
+			[
+				"langruscart",
+				"catalog/language/russian/module/cart.php"
+			],
+			[
+				"contrfooter",
+				"catalog/controller/common/footer.php"
+			],
+			[
+				"",
+				".htaccess.txt"
+			],
+			[
+				"tristylesh",
+				"catalog/view/theme/triline/stylesheet/stylesheet.css"
+			],
+			[
+				"catcontrheader",
+				"catalog/controller/common/header.php"
+			],
+			[
+				"catviewtriheader",
+				"catalog/view/theme/triline/template/common/header.tpl"
+			],
+			[
+				"tristy",
+				"catalog/view/theme/triline/stylesheet/stylesheet.css"
+			],
+			[
+				"catviewtrifooter",
+				"catalog/view/theme/triline/template/common/footer.tpl"
+			],
+			[
+				"catviewdefheader",
+				"catalog/view/theme/default/template/common/header.tpl"
+			],
+			[
+				"catcontcomfoo",
+				"catalog/controller/common/footer.php"
+			],
+			[
+				"catcontcomhea",
+				"catalog/controller/common/header.php"
+			],
+			[
+				"template/common/header",
+				"catalog/view/theme/triline/template/common/header.tpl"
+			],
+			[
+				"ssless",
+				"catalog/view/theme/triline/stylesheet/bootstrap/less/scaffolding.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/Мешок/akkord/akkord.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 112.0,
+	"status_bar_visible": true
+}
