@@ -9,7 +9,7 @@
 </head>
 <script type="text/javascript" src="scripts.js"></script>
 <?
-
+	// Старые не используемые функции. Всё рабочее в файле ajax.php и script.js
     function dbTestRecord() {
 		// Create connection
 	    $servername = 'localhost'; 
@@ -76,6 +76,7 @@
 		<br>
 		<div class="row">
 			<div class="col-lg-4">
+				<?//Инпуты?>
 				<label for="dbHost">host</label>
 				<input type="text" class="form-control" id="dbHost" placeholder="dbHost" value="localhost">
 				<label for="dbLogin">login</label>
@@ -87,6 +88,7 @@
 				<label for="catalog">catalog</label>
 				<input type="text" class="form-control" id="catalog" placeholder='D:/Programm/OpenServer5/OpenServer/domains/work/aspro/dz1/catalog/' value="D:/Programm/OpenServer5/OpenServer/domains/work/aspro/dz1/catalog/">
 			</div>
+			<?//Кнопки?>
 			<div class="col-lg-2" style="display:none">
 				<a href="#" id="dbConnect">dbConnect</a>
 				<a href="#" id="dbReading">dbReading</a>
@@ -99,6 +101,7 @@
 			</div>
 		</div>
 		<hr>
+		<?//Лог?>
 		<div class="row">
 			<div class="col-lg-12">
 				<p id="log">
@@ -106,18 +109,21 @@
 			</div>
 		</div>
 		<hr>
+		<?//Дерево json?>
 		<div class="row">
 			<div class="col-lg-12">
 				<div id="tree"></div>
 			</div>
 		</div>
 		<hr>
+		<?//Дерево json?>
 		<div class="row" style="display:none">
 			<div class="col-lg-12">
 				<div id="tree1"></div>
 			</div>
 		</div>
 		<hr>
+		<?//ХЗ?>
 		<div class="row" style="display:none">
 			<div class="col-lg-12">
 				<ul>

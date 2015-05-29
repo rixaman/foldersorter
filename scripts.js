@@ -2,7 +2,8 @@ $(document).ready(function() {
 	// request.fail(function( jqXHR, textStatus ) {
 	// 	alert( "Request failed: " + textStatus );
 	// });
-
+	
+	// Собираем снова значения подключения к базе с инпутов
 	function dbConnect() {
 		dbHost = $("#dbHost").val();
 		dbLogin = $("#dbLogin").val();
@@ -12,6 +13,7 @@ $(document).ready(function() {
 		return result;
 	}
 
+	// Запуск скана
 	$("#scanDir").click( function() {
 		var dbConnecta = dbConnect();
 		var catalog = $("#catalog").val();
@@ -35,6 +37,7 @@ $(document).ready(function() {
 			// var data = [
 			// 	{"label":"catalog","children":[{"label":"file00.tt"},{"label":"file01.txt"}]}
 			// ];
+			// Выводит в дерево плагином tree
 			var data = [response];
 			//var data[] = response;
 		    $('#tree').tree({
@@ -42,6 +45,7 @@ $(document).ready(function() {
 		    });
 		});
 	});
+	// Тест конекта к базе
 	$("#dbConnect").click( function() {
 		dbHost = $("#dbHost").val();
 		dbLogin = $("#dbLogin").val();
@@ -63,6 +67,7 @@ $(document).ready(function() {
 			$( "#log" ).html( msg );
 		});
 	});
+	// Тест чтива из базы
 	$("#dbReading").click( function() {
 		// dbBase = $("#dbBase").val();
  		var request = $.ajax({
@@ -78,6 +83,7 @@ $(document).ready(function() {
 			$( "#log" ).html( msg );
 		});
 	});
+	// Считаем файлы, можно указывать каталог через кнопку/плагин TODO
 	$("#countFiles").click(function(){
 		catalog = 'D:/Programm/OpenServer5/OpenServer/domains/work/aspro/dz1/catalog/';
 		var dbConnecta = dbConnect();
@@ -98,6 +104,7 @@ $(document).ready(function() {
 			$( "#log" ).html( msg );
 		});		
 	});
+	// Чота читаем
 	$("#dbReadToJson").click( function() {
 		var dbConnecta = dbConnect();
  		var request = $.ajax({
@@ -113,6 +120,8 @@ $(document).ready(function() {
 			dataType: "json"
 		});
 		request.done(function(response) {
+			// Вывод в плагин тестого дерева формата json
+			// 
 				var data = [
 				    {
 				        label: 'node1',

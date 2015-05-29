@@ -1,5 +1,6 @@
 <?
     /* functions */
+    // Конектим к базе
     function dbConnect($dbHost, $dbLogin, $dbPass, $dbBase) {       
         $link = @mysql_connect($dbHost, $dbLogin, $dbPass) or die('Попытка соединения с базой данных провалилась!');
         mysql_set_charset('utf8');
@@ -7,7 +8,7 @@
         //echo 'Есть коннект!<br>';
         //dbReadToJson();
     }
-
+    // Читаем таблицу каталогс
     function dbReadToJson() {
         $my_query = mysql_query("SELECT * FROM catalogs") or die(mysql_error());
         if (mysql_num_rows($my_query)):
@@ -19,7 +20,7 @@
         endif;
         echo json_encode($data);
     }
-
+    // Тоже что-то пробуем
     function dbTestRead() {
         $my_query = mysql_query("SELECT * FROM catalogs") or die(mysql_error());
         if (mysql_num_rows($my_query)):
@@ -32,7 +33,7 @@
             echo "неа";
         endif;      
     }
-
+    // Рекурсивно ситаем файлы
     function countFiles($path, $countFiles) {  
         $folder = opendir($path);
         if (!$folder)
@@ -54,7 +55,7 @@
         closedir($folder); 
         echo json_encode($data);
     }
-
+    // Апгрейженая версия скана папки
     function scaningDir($path) {
         $data = reScaningDir($path);
         echo json_encode($data);
@@ -119,6 +120,7 @@
 
 
     /* codes */
+    // Ловим аяксом приходящие посты, можно тримить и очищать для безопаски
     $code = $_POST["code"];
     $dbHost = $_POST["dbHost"];
     $dbLogin = $_POST["dbLogin"];
@@ -126,6 +128,7 @@
     $dbBase = $_POST["dbBase"];
     $catalog = $_POST["catalog"];
 
+    //СОбственно сам запуск функций пыха
     if($_POST["code"] == "dbConnect") {
         dbConnect($dbHost, $dbLogin, $dbPass, $dbBase);
     }
